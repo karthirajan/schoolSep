@@ -15,11 +15,7 @@ public class EigthStandard {
 		
 	}
 	
-	protected void prct(){
-		
-		System.out.println("Protected");
-		
-	}
+	
 	
 	 void defa(){
 		 System.out.println("default");
