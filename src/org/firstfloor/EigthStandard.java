@@ -9,11 +9,8 @@ public class EigthStandard {
 	}
 	
 	
-	public void satyan(){
 		
-		System.out.println("Hi This is satyan");
-		
-	}
+	
 	
 	
 	
@@ -31,7 +28,7 @@ public class EigthStandard {
 		
 		EigthStandard a = new EigthStandard();
 		a.infantLeo();
-		a.satyan();
+		
 		a.restricted();
 		
 	}

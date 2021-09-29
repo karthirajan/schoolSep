@@ -17,11 +17,7 @@ public class NinthStandard extends EigthStandard{
 
 	}
 	
-	public  void tester(int mail) {
-	       
-		System.out.println("student id is :"+mail);
-
-	}
+	
 	
 	public void tester(String mail,long phno) {
 	       
@@ -34,7 +30,7 @@ public class NinthStandard extends EigthStandard{
 		
 		NinthStandard n = new NinthStandard();
 		n.tester("karthi");
-		n.tester(3334244);
+		//n.tester(3334244);
 		n.tester("fhgfg@hdmb", 53534343435l);
 		
 	}
