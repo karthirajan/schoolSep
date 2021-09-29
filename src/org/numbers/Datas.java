@@ -20,8 +20,6 @@ public class Datas {
 		int i = 243242432;
 		System.out.println(i);
 		
-		long d = 332226244252l;
-		System.out.println(d);
 		
 		float f = 23235223;
 		System.out.println(f);

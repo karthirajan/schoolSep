@@ -14,13 +14,7 @@ public class EigthStandardB extends EigthStandard{
 		
 	}
 	
-	public void tester() {
-        
-		
-		
-		System.out.println(i);
 
-	}
 	
 	
 	
@@ -30,7 +24,7 @@ public class EigthStandardB extends EigthStandard{
 	
 		EigthStandardB b = new EigthStandardB();
 		b.lenin();
-		b.tester();
+		
 		System.out.println(i);
 		
 	}
